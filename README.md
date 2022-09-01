@@ -16,7 +16,7 @@ We did this by formatting/converting, extracting, filtering, and presenting rele
 * The months of May, June, and July had the highest number of succesful campaigns. Out of all the months, May had the most number of succesful campaigns.
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](Resources/Theater_Outcomes_vs_Launch.png)
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 * There is slight inverse trend where as the fundraising goal increases the success rate decreases. 
 * There is a higher percentage of successful campaigns than failed campaigns at the $0-10k and $35k-$45k fundraising goal ranges.
 
