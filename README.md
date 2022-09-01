@@ -3,9 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this project is to evaluate outcomes of various (theater/play) campaigns based on their launch date and fundraising goals, to ultimately arm Louise with data and analyses to help determine the best way to plan and launch her own.
-
-We did this by formatting/converting, extracting, filtering, and presenting relevant data through pivot tables, graphs, and various functions such as year(), =sum() and =countifs().
+The purpose of this project is to evaluate outcomes of various (theater/play) campaigns based on their launch date and fundraising goals, to ultimately arm Louise with data and analyses to help determine the best way to plan and launch her own. We did this by formatting/converting, extracting, filtering, and presenting relevant data through pivot tables, graphs, and various functions such as year(), =sum() and =countifs().
 
 
 ## Analysis and Challenges
@@ -27,11 +25,11 @@ I had a lot of errors when writing out my countifs(). Manually entering the rang
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-*Louise should aim to launch her campaigns in the spring time, specifically May and June, which had the highest number of successful campaigns. October could potentially be a bad time to launch a campaign.
+Louise should aim to launch her campaigns in the spring time, specifically May and June, which had the highest number of successful campaigns. October could potentially be a bad time to launch a campaign.
 
 - What can you conclude about the Outcomes based on Goals?
 
-* Louise should aim to have a campaign goal of less than $20k, it is at this point where the percentage of failures is greater than the percentage of successes. 
+Louise should aim to have a campaign goal of less than $20k, it is at this point where the percentage of failures is greater than the percentage of successes. 
 
 - What are some limitations of this dataset?
 Using percentages for Theater Outcomes Based on Launch Date would have been more useful information that a count. While it is visible that there are more successful campaigns than failed, we want to know at what rate/in relation to the total number of campaigns.
