@@ -23,17 +23,18 @@ I had a lot of errors when writing out my countifs(). Manually entering the rang
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Louise should aim to launch her campaigns in the spring time, specifically May and June, which had the highest number of successful campaigns. October could potentially be a bad time to launch a campaign.
+* Louise should aim to launch her campaigns in the spring time, specifically May and June, which had the highest number of successful campaigns. October could potentially be a bad time to launch a campaign.
 
-- What can you conclude about the Outcomes based on Goals?
+What can you conclude about the Outcomes based on Goals?
 
-Louise should aim to have a campaign goal of less than $20k, it is at this point where the percentage of failures is greater than the percentage of successes. 
+* Louise should aim to have a campaign goal of less than $20k, it is at this point where the percentage of failures is greater than the percentage of successes. 
 
-- What are some limitations of this dataset?
-Using percentages for Theater Outcomes Based on Launch Date would have been more useful information that a count. While it is visible that there are more successful campaigns than failed, we want to know at what rate/in relation to the total number of campaigns.
+What are some limitations of this dataset?
+* Using percentages for Theater Outcomes Based on Launch Date would have been more useful information that a count. While it is visible that there are more successful campaigns than failed, we want to know at what rate/in relation to the total number of campaigns.
 
 
-- What are some other possible tables and/or graphs that we could create?
-We could create a table that looks at duration of the campaign and outcomes.
+What are some other possible tables and/or graphs that we could create?
+
+* We could create a table that looks at duration of the campaign and outcomes.
